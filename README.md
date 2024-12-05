@@ -24,3 +24,9 @@ We utilized the five-fold cross-validation method for model training and used th
 After evaluating the six models, the CatBoost model achieved the best performance with an AUC score of 74.88%. This model was chosen as the best model for predicting loan defaults.
 
 The project also includes a data visualization analysis report for better understanding of the results.
+
+## How to Use
+
+You can run this code by looking at the Essay in the main branch, which has detailed steps and predicted results.
+
+Datasets and Code have placed in the Master branch and you can view it at any time.
